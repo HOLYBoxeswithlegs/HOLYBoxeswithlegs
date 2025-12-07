@@ -1,1 +1,1 @@
-![AMERICA](as/a.png)
+![AMERICA](a.png)
